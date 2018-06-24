@@ -1,0 +1,1 @@
+တခြား  opreator တွေ ကို ဖုန်းခေါ် ဖို့ အတွက် package ဝယ် ချင် ရင်ဘယ် package ကို ဝယ် ရ မလဲ background data restrict လုပ် ထား တာ တောင် ဘာမှ မ သုံး ဘဲ bill တွေ ဖြတ် နေ တယ် တခြား operator ကို ဖုန်းခေါ် ချင် ရင် bill က မရှိ တော့ ဘူး 

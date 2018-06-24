@@ -1,0 +1,22 @@
+Neg
+Pos
+Question
+Accuracy: 0.888888888889
+Most Informative Features
+       contains(ကျေးဇူး) = True              Pos : Neg    =    106.6 : 1.0
+        contains(ဘာလို့) = True           Questi : Pos    =     49.7 : 1.0
+        contains(ဘယ်လို) = True           Questi : Neg    =     28.1 : 1.0
+      contains(ဖြတ်သွား) = True              Neg : Pos    =     25.7 : 1.0
+           contains(မလဲ) = True           Questi : Pos    =     23.4 : 1.0
+ contains(လိုင်းမကောင်း) = True              Neg : Pos    =     23.0 : 1.0
+        contains(နံပါတ်) = True           Questi : Pos    =     23.0 : 1.0
+contains(ကျေးဇူးတင်ပါတယ်) = True              Pos : Questi =     22.2 : 1.0
+     contains(ပြောပြပေး) = True           Questi : Neg    =     21.0 : 1.0
+          contains(ရလား) = True           Questi : Neg    =     21.0 : 1.0
+
+
+
+
+
+
+
